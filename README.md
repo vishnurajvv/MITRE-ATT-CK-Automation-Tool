@@ -31,6 +31,7 @@ The tool:
  Project Structure
 
  mitre_attack_automation/
+ 
 ├── data/
 
 │ ├── mitre_attack.json

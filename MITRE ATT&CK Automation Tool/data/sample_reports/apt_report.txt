@@ -1,0 +1,3 @@
+The attacker used PowerShell to download a malicious payload from a remote server.
+Credential dumping was performed by accessing LSASS memory.
+Persistence was achieved using registry run keys to maintain access.
